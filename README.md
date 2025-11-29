@@ -1,7 +1,7 @@
 # Link Share Bot ✨
 
 <p align="center">
-  <img src="assets/img1.jpg" alt="Bot Channels" width="700"/>
+  <img src="assets/img.jpg" alt="Bot Channels" width="700"/>
 </p>
 
 A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.
